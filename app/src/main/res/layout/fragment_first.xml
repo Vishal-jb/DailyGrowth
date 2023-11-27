@@ -9,11 +9,11 @@
 
     <EditText
         android:id="@+id/edit_Sche_1"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="38dp"
-        android:layout_marginTop="98dp"
-        android:layout_marginEnd="299dp"
+        android:layout_width="@dimen/_102sdp"
+        android:layout_height="@dimen/_17sdp"
+        android:layout_marginStart="@dimen/_31sdp"
+        android:layout_marginTop="@dimen/_58sdp"
+        android:layout_marginEnd="@dimen/_216sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -21,16 +21,17 @@
         android:textSize="15dp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.262"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/edit_Goal_3" />
 
     <EditText
         android:id="@+id/edit_Sche_2"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="38dp"
-        android:layout_marginTop="11dp"
-        android:layout_marginEnd="119dp"
+        android:layout_width="@dimen/_107sdp"
+        android:layout_height="@dimen/_16sdp"
+        android:layout_marginStart="@dimen/_9sdp"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:layout_marginEnd="@dimen/_30sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -43,11 +44,11 @@
 
     <EditText
         android:id="@+id/edit_Sche_3"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="38dp"
-        android:layout_marginTop="16dp"
-        android:layout_marginEnd="104dp"
+        android:layout_width="@dimen/_104sdp"
+        android:layout_height="@dimen/_16sdp"
+        android:layout_marginStart="@dimen/_2sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_7sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -60,11 +61,11 @@
 
     <EditText
         android:id="@+id/edit_Sche_4"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="38dp"
-        android:layout_marginTop="15dp"
-        android:layout_marginEnd="104dp"
+        android:layout_width="@dimen/_109sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:layout_marginStart="@dimen/_50sdp"
+        android:layout_marginTop="@dimen/_9sdp"
+        android:layout_marginEnd="@dimen/_62sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -77,11 +78,11 @@
 
     <EditText
         android:id="@+id/edit_Sche_5"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="38dp"
-        android:layout_marginTop="11dp"
-        android:layout_marginEnd="104dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:layout_marginStart="@dimen/_57sdp"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:layout_marginEnd="@dimen/_64sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -94,11 +95,11 @@
 
     <EditText
         android:id="@+id/edit_Sche_6"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="38dp"
-        android:layout_marginTop="16dp"
-        android:layout_marginEnd="299dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:layout_marginStart="@dimen/_62sdp"
+        android:layout_marginTop="@dimen/_11sdp"
+        android:layout_marginEnd="@dimen/_216sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -111,11 +112,11 @@
 
     <EditText
         android:id="@+id/edit_Sche_7"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="32dp"
-        android:layout_marginTop="13dp"
-        android:layout_marginEnd="50dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_14sdp"
+        android:layout_marginStart="@dimen/_55sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_60sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -128,11 +129,11 @@
 
     <EditText
         android:id="@+id/edit_Sche_8"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="32dp"
-        android:layout_marginTop="15dp"
-        android:layout_marginEnd="50dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:layout_marginStart="@dimen/_57sdp"
+        android:layout_marginTop="@dimen/_11sdp"
+        android:layout_marginEnd="@dimen/_61sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -145,11 +146,11 @@
 
     <EditText
         android:id="@+id/edit_Sche_9"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="32dp"
-        android:layout_marginTop="13dp"
-        android:layout_marginEnd="50dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:layout_marginStart="@dimen/_65sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_70sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -162,12 +163,12 @@
 
     <EditText
         android:id="@+id/edit_Sche_10"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="32dp"
-        android:layout_marginTop="15dp"
-        android:layout_marginEnd="50dp"
-        android:layout_marginBottom="67dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:layout_marginStart="@dimen/_40sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_47sdp"
+        android:layout_marginBottom="@dimen/_48sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -181,10 +182,10 @@
 
     <EditText
         android:id="@+id/edit_mealP_2"
-        android:layout_width="123dp"
-        android:layout_height="26dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginEnd="72dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:layout_marginTop="@dimen/_9sdp"
+        android:layout_marginEnd="@dimen/_47sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -197,10 +198,10 @@
 
     <EditText
         android:id="@+id/edit_mealP_3"
-        android:layout_width="123dp"
-        android:layout_height="26dp"
-        android:layout_marginTop="16dp"
-        android:layout_marginEnd="72dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:layout_marginTop="@dimen/_11sdp"
+        android:layout_marginEnd="@dimen/_46sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -212,10 +213,10 @@
 
     <EditText
         android:id="@+id/edit_mealP_1"
-        android:layout_width="108dp"
-        android:layout_height="26dp"
-        android:layout_marginTop="122dp"
-        android:layout_marginEnd="72dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:layout_marginTop="@dimen/_77sdp"
+        android:layout_marginEnd="@dimen/_46sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -227,11 +228,11 @@
 
     <EditText
         android:id="@+id/edit_Todo_1"
-        android:layout_width="140dp"
-        android:layout_height="25dp"
-        android:layout_marginStart="86dp"
-        android:layout_marginTop="84dp"
-        android:layout_marginEnd="66dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_20sdp"
+        android:layout_marginStart="@dimen/_40sdp"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:layout_marginEnd="@dimen/_40sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -244,11 +245,11 @@
 
     <EditText
         android:id="@+id/edit_Todo_2"
-        android:layout_width="140dp"
-        android:layout_height="25dp"
-        android:layout_marginStart="86dp"
-        android:layout_marginTop="12dp"
-        android:layout_marginEnd="66dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_11sdp"
+        android:layout_marginStart="@dimen/_36sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_39sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -261,11 +262,11 @@
 
     <EditText
         android:id="@+id/edit_Todo_3"
-        android:layout_width="140dp"
-        android:layout_height="25dp"
-        android:layout_marginStart="86dp"
-        android:layout_marginTop="17dp"
-        android:layout_marginEnd="66dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_11sdp"
+        android:layout_marginStart="@dimen/_20sdp"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:layout_marginEnd="@dimen/_20sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -278,11 +279,11 @@
 
     <EditText
         android:id="@+id/edit_Todo_4"
-        android:layout_width="140dp"
-        android:layout_height="25dp"
-        android:layout_marginStart="86dp"
-        android:layout_marginTop="18dp"
-        android:layout_marginEnd="66dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_11sdp"
+        android:layout_marginStart="@dimen/_20sdp"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:layout_marginEnd="@dimen/_20sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -295,9 +296,9 @@
 
     <Button
         android:id="@+id/button_first"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
-        android:layout_marginBottom="50dp"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_marginBottom="@dimen/_30sdp"
         android:background="@drawable/round_button"
         android:text="@string/next"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -309,10 +310,10 @@
 
     <EditText
         android:id="@+id/edit_Goal_1"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="45dp"
-        android:layout_marginTop="250dp"
+        android:layout_width="@dimen/_110sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_155sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -324,10 +325,10 @@
 
     <EditText
         android:id="@+id/edit_Goal_2"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="45dp"
-        android:layout_marginTop="11dp"
+        android:layout_width="@dimen/_110sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_11sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -339,10 +340,10 @@
 
     <EditText
         android:id="@+id/edit_Goal_3"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
-        android:layout_marginStart="45dp"
-        android:layout_marginTop="17dp"
+        android:layout_width="@dimen/_108sdp"
+        android:layout_height="@dimen/_15sdp"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_10sdp"
         android:background="@null"
         android:inputType="text"
         android:maxLength="22"
@@ -374,11 +375,11 @@
 
     <EditText
         android:id="@+id/edit_Note"
-        android:layout_width="179dp"
-        android:layout_height="146dp"
-        android:layout_marginTop="89dp"
-        android:layout_marginEnd="65dp"
-        android:layout_marginBottom="58dp"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_85sdp"
+        android:layout_marginTop="@dimen/_75sdp"
+        android:layout_marginEnd="@dimen/_53sdp"
+        android:layout_marginBottom="@dimen/_45sdp"
         android:background="@null"
         android:ems="10"
         android:gravity="top|start"
@@ -387,7 +388,6 @@
         android:lineHeight="30dp"
         android:maxLength="120"
         android:maxLines="5"
-        android:text="hell the note button or layout so we can fix its position so we can do whaterr we please as we planed so we dont need t "
         android:textAlignment="viewStart"
         android:textColor="@color/black"
         android:textSize="15dp"
@@ -434,7 +434,7 @@
 
         <RadioButton
             android:id="@+id/radioSun"
-            android:layout_width="25dp"
+            android:layout_width="@dimen/_20sdp"
             android:layout_height="match_parent"
             android:scaleX="0.75"
             android:scaleY="0.75"
@@ -442,7 +442,7 @@
 
         <RadioButton
             android:id="@+id/radioMon"
-            android:layout_width="25dp"
+            android:layout_width="@dimen/_20sdp"
             android:layout_height="match_parent"
             android:layout_marginLeft="-9dp"
             android:scaleX="0.75"
@@ -450,7 +450,7 @@
 
         <RadioButton
             android:id="@+id/radioTue"
-            android:layout_width="25dp"
+            android:layout_width="@dimen/_20sdp"
             android:layout_height="match_parent"
             android:layout_marginLeft="-8dp"
             android:scaleX="0.75"
@@ -458,7 +458,7 @@
 
         <RadioButton
             android:id="@+id/radioWed"
-            android:layout_width="25dp"
+            android:layout_width="@dimen/_20sdp"
             android:layout_height="match_parent"
             android:layout_marginLeft="-7dp"
             android:scaleX="0.75"
@@ -466,7 +466,7 @@
 
         <RadioButton
             android:id="@+id/radioThu"
-            android:layout_width="26dp"
+            android:layout_width="@dimen/_20sdp"
             android:layout_height="match_parent"
             android:layout_marginLeft="-5dp"
             android:scaleX="0.75"
@@ -474,7 +474,7 @@
 
         <RadioButton
             android:id="@+id/radioFri"
-            android:layout_width="25dp"
+            android:layout_width="@dimen/_20sdp"
             android:layout_height="match_parent"
             android:layout_marginLeft="-10dp"
             android:scaleX="0.75"
@@ -482,7 +482,7 @@
 
         <RadioButton
             android:id="@+id/radioSat"
-            android:layout_width="25dp"
+            android:layout_width="@dimen/_20sdp"
             android:layout_height="match_parent"
             android:layout_marginLeft="-10dp"
             android:scaleX="0.75"
